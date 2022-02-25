@@ -1,0 +1,1 @@
+FROM cimg/node:17.5.0
